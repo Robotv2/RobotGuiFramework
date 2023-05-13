@@ -1,0 +1,14 @@
+template-gui:
+  template:
+    - "000000000"
+    - "000111000"
+    - "000000000"
+  template-items:
+    0:
+      material-value: 76
+      source: ORAXEN
+      custom-model-data: 10
+      name: ""
+      lore:
+        - ""
+
